@@ -1,0 +1,33 @@
+Release Notes (February 18, 2025)
+New Features:
+1. Dashboard
+- Added a new dashboard module showing a list of company and stores along with their number of records for current and past days, weeks, and months.
+2. User Management
+- Introducing the ability to add users with specific access to companies and stores, offering more control and flexibility for user management.
+3. Leave Management
+- Added functionality to display and add leave requests according to the company, improving leave tracking and management.
+
+Improved Features:
+1. Scheduler Enhancement
+- New filter section added for better scheduling control.
+- Export options now available based on the current viewing selection.
+- Enhanced mobile responsiveness, providing a smoother experience on smaller devices.
+2. Leave Type Management
+- Improved usability of leave type management, enabling a more intuitive and streamlined process per company.
+3. Time & Attendance Export
+- A new column has been added in the employee's summary to additional section details in the export.
+4. Adding of New Employee Enhancement
+- Updated required and optional fields for more precise employee data entry.
+5. Sidebar Enhancement
+- Visual and functional enhancements to the sidebar, improving navigation and accessibility.
+6. Improved Overall Usability
+- Various UI/UX improvements to enhance overall system usability and user experience.
+
+Limitations:
+1. User Management (Company Session) includes:
+a. Time & Attendance (exc. export)
+b. Employee List
+2. No validation
+a. Leave Management
+b. User Management
+3. One filed leave per day only
