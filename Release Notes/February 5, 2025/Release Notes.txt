@@ -1,5 +1,5 @@
 Release Notes (February 5, 2025)
 New Account Setup:
 sb_victoria
-admin1234
+$1$PyL2/odz$AXUhaqPeivTXCEM96ejuD0
 store code: victoria_crest
