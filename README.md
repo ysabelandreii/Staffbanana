@@ -1,5 +1,3 @@
-Introduction
-
 This GitHub repository houses the project management and development resources for StaffBanana, a revolutionary mobile application designed to transform timekeeping through the power of facial recognition. StaffBanana eliminates the inefficiencies and inaccuracies of traditional timekeeping methods like manual punching and unreliable badges.  It offers a faster, more secure, and highly reliable way to track employee hours, even in environments with limited or intermittent online connectivity.
 
 While the StaffBanana application itself is a mobile app (not directly hosted here), this GitHub project serves as the central hub for our development process.  We leverage GitHub for:
