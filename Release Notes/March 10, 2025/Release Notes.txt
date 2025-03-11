@@ -1,0 +1,33 @@
+Release Notes (March 7, 2025)
+New Features:
+1. User Module Management
+- Easily add and manage user access to specific modules with the ability to limit permissions.
+2. Welcome Page
+- A new welcoming page has been added for users who do not have access to the dashboard.
+3. Leave Credits Management
+- Users can now add and update employee leave credits.
+4. Used Leaves Access
+- Users can now view used leaves directly from the employee's edit data, simplifying leave tracking.
+5. Store Filter
+- A new store filter is available, allowing users to access specific stores across all modules.
+
+Improved Features:
+1. Time & Attendance Export Enhancement
+- Exported time & attendance data now includes leave types for more comprehensive reporting.
+2. Forgot to Clock Out Enhancement
+- Enhanced functionality to better handle forgotten clock-out entries for improved time tracking.
+3. New Employee Syncing
+- Employees created from the back office can now be seamlessly synced with new employee module.
+4. Scheduler Updates
+- Users can now select multiple employees at once to add or update their schedules.
+5. Leave Management Enhancements
+- Improved leave management system with added validation for leave credits and an enhanced UI for easier navigation.
+6. User Management Improvements
+- Users now have the ability to edit and delete user accounts, offering more flexibility in user management.
+7. Sidebar Enhancement
+- Sidebar has been revamped for a more user-friendly layout and improved accessibility.
+8. Header Enhancement
+- Header has been redesigned for improved functionality, providing quicker access to key features.
+9. Overall UI/UX Enhancements
+
+
